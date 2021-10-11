@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @beratersari
+- 👋 Hi, I’m Berat ERSARI
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate with Data Scientists, Machine Learning Engineers.
