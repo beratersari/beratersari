@@ -1,9 +1,4 @@
-- 👋 Hi, I’m Berat ERSARI
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate with Data Scientists, Machine Learning Engineers.
-- 📫 You can reach me at beratersari0@gmail.com
-
+- 👋 Hi, I’m Berat. I am a Software Developer. I mostly worked on Artificial Intelligence, especially in Computer Vision. You can reach me at beratersari0@gmail.com.
 <!---
 beratersari/beratersari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
