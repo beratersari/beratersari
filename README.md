@@ -9,5 +9,5 @@ beratersari/beratersari is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Berat Github](https://github-readme-stats.vercel.app/api?username=beratersari&hide=contribs,prs)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=beratersari&show_icons=true&theme=cobalt#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
